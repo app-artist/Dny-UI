@@ -1,5 +1,6 @@
+import 'package:dny_ui/simple_calculator.dart';
 import 'package:flutter/material.dart';
-import 'package:dny_ui/SimpleCalculator';
+
 
 void main() {
   runApp(const MyApp());
